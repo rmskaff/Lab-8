@@ -1,0 +1,15 @@
+  h1 {
+    font-family: Helvetica, sans-serif;
+    color: lightpink;
+    text-align: center;
+  }
+  h3{
+    text-align:left;
+    padding: 2px;
+  }
+  p{
+    font-family:Helvetica, sans-serif;
+    color: black;
+    margin-left:20px;
+    padding: 2px;
+  }
